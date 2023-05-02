@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828728430781",
+    "firebase_url": "https://chatboi-baf98-default-rtdb.firebaseio.com",
+    "project_id": "chatboi-baf98",
+    "storage_bucket": "chatboi-baf98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828728430781:android:da68eec1910d9c11f327d4",
+        "android_client_info": {
+          "package_name": "com.example.chatboi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828728430781-lu03s8ic3jejjr3ap9ogldkpc6inkck9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_D5flvB5zhxDuZxadXQ-qVP5MU4BI_IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828728430781-9itongiojkm3907ad7a75ii02f4mh9of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
